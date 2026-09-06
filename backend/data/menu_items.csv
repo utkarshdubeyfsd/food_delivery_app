@@ -1,0 +1,25 @@
+id,restaurant_id,name,price,category,description
+101,1,Butter Chicken,12.99,Main,Creamy tomato curry with tender chicken
+102,1,Paneer Tikka,9.99,Starter,Grilled cottage cheese with spices
+103,1,Garlic Naan,3.49,Bread,Soft flatbread with garlic butter
+104,1,Mango Lassi,3.99,Beverage,Sweet yogurt mango drink
+201,2,Margherita Pizza,11.99,Main,Classic tomato basil mozzarella
+202,2,Fettuccine Alfredo,13.49,Main,Creamy parmesan pasta
+203,2,Bruschetta,6.99,Starter,Toasted bread with tomato and basil
+204,2,Tiramisu,5.99,Dessert,Classic Italian coffee dessert
+301,3,Kung Pao Chicken,11.49,Main,Spicy stir-fried chicken with peanuts
+302,3,Vegetable Spring Rolls,5.49,Starter,Crispy rolls with fresh veggies
+303,3,Fried Rice,7.99,Main,Wok-tossed rice with egg and vegetables
+304,3,Hot and Sour Soup,4.99,Soup,Tangy spicy classic soup
+401,4,Chicken Tacos,8.99,Main,Three tacos with grilled chicken
+402,4,Beef Burrito,9.49,Main,Large burrito with seasoned beef
+403,4,Guacamole and Chips,5.99,Starter,Fresh avocado dip with tortilla chips
+404,4,Churros,4.49,Dessert,Cinnamon sugar fried dough
+501,5,Classic Cheeseburger,7.99,Main,Beef patty with cheddar and pickles
+502,5,Bacon BBQ Burger,9.49,Main,Beef patty with bacon and bbq sauce
+503,5,Crispy Fries,3.49,Side,Golden salted fries
+504,5,Chocolate Milkshake,4.99,Beverage,Thick creamy chocolate shake
+601,6,California Roll,7.49,Sushi,Crab, avocado, and cucumber roll
+602,6,Salmon Nigiri,8.99,Sushi,Fresh salmon over seasoned rice
+603,6,Miso Soup,2.99,Soup,Traditional soybean paste soup
+604,6,Edamame,3.99,Starter,Steamed salted soybeans

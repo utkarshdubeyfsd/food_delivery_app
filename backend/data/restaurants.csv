@@ -1,0 +1,7 @@
+id,name,cuisine,rating,delivery_time_mins,image_emoji
+1,Spice Route,Indian,4.5,30,🍛
+2,Bella Napoli,Italian,4.7,25,🍕
+3,Golden Dragon,Chinese,4.3,35,🥡
+4,Taco Fiesta,Mexican,4.6,20,🌮
+5,Burger Barn,American,4.2,15,🍔
+6,Sushi Zen,Japanese,4.8,40,🍣

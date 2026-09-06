@@ -1,0 +1,58 @@
+import type { Restaurant } from "../types";
+
+export const MOCK_RESTAURANTS: Restaurant[] = [
+  {
+    id: "r1",
+    name: "Spice Route",
+    cuisine: "Indian",
+    rating: 4.5,
+    deliveryTimeMins: 30,
+    emoji: "🍛",
+    priceRange: "$$",
+  },
+  {
+    id: "r2",
+    name: "Bella Napoli",
+    cuisine: "Italian",
+    rating: 4.7,
+    deliveryTimeMins: 25,
+    emoji: "🍕",
+    priceRange: "$$",
+  },
+  {
+    id: "r3",
+    name: "Golden Dragon",
+    cuisine: "Chinese",
+    rating: 4.3,
+    deliveryTimeMins: 35,
+    emoji: "🥡",
+    priceRange: "$",
+  },
+  {
+    id: "r4",
+    name: "Taco Fiesta",
+    cuisine: "Mexican",
+    rating: 4.6,
+    deliveryTimeMins: 20,
+    emoji: "🌮",
+    priceRange: "$",
+  },
+  {
+    id: "r5",
+    name: "Burger Barn",
+    cuisine: "American",
+    rating: 4.2,
+    deliveryTimeMins: 15,
+    emoji: "🍔",
+    priceRange: "$",
+  },
+  {
+    id: "r6",
+    name: "Sushi Zen",
+    cuisine: "Japanese",
+    rating: 4.8,
+    deliveryTimeMins: 40,
+    emoji: "🍣",
+    priceRange: "$$$",
+  },
+];
