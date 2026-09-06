@@ -1,0 +1,29 @@
+{
+  "services": {
+    "frontend": {
+      "root": "frontend",
+      "framework": "vite"
+    },
+    "admin": {
+      "root": "admin",
+      "framework": "vite"
+    },
+    "backend": {
+      "root": "backend"
+    }
+  },
+  "rewrites": [
+    {
+      "source": "/api/:path*",
+      "service": "backend"
+    },
+    {
+      "source": "/admin/:path*",
+      "service": "admin"
+    },
+    {
+      "source": "/(.*)",
+      "service": "frontend"
+    }
+  ]
+}
