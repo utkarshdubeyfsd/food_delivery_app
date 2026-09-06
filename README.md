@@ -88,6 +88,11 @@ npm run dev
 ```
 > Runs at **http://localhost:5173**
 
+<img width="1917" height="917" alt="image" src="https://github.com/user-attachments/assets/4b887d8b-862e-4115-ad19-19c7ca68f1e9" />
+
+<img width="1897" height="911" alt="image" src="https://github.com/user-attachments/assets/9a0d540a-7833-492a-9b8c-8f7eca5d1e7e" />
+
+
 ### 2. Admin Operations Dashboard
 Open a second terminal window:
 ```bash
@@ -96,6 +101,9 @@ npm install
 npm run dev
 ```
 > Runs at **http://localhost:5174**
+
+<img width="1902" height="907" alt="image" src="https://github.com/user-attachments/assets/bef3e824-42d7-4e0f-838a-e312e8541530" />
+
 
 ### 3. Backend API (Optional / Standalone)
 Open a third terminal window:
