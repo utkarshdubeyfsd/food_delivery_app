@@ -14,16 +14,22 @@
   },
   "rewrites": [
     {
-      "source": "/api/:path*",
-      "service": "backend"
+      "source": "/api/(.*)",
+      "destination": {
+        "service": "backend"
+      }
     },
     {
-      "source": "/admin/:path*",
-      "service": "admin"
+      "source": "/admin/(.*)",
+      "destination": {
+        "service": "admin"
+      }
     },
     {
       "source": "/(.*)",
-      "service": "frontend"
+      "destination": {
+        "service": "frontend"
+      }
     }
   ]
 }
